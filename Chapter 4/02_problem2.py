@@ -1,0 +1,15 @@
+students =[] 
+#input marks of 6 students
+st1= input("Enter makrs of 1st student :")
+students.append(st1)
+st2= input("Enter makrs of 2st student :")
+students.append(st2)
+st3=input("Enter makrs of 3st student :")
+students.append(st3)
+st4= input("Enter makrs of 4st student :")
+students.append(st4)
+st6= input("Enter makrs of 6st student :")
+students.append(st6)
+st5= input("Enter makrs of 5st student :")
+students.append(st5)
+print (students)
